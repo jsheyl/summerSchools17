@@ -17,7 +17,7 @@
 
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault (continued)
-* intro to jupyter notebooks, someone from PIMS (Ian Allison?), need confirmation
+* Intro to jupyter notebooks, someone from PIMS (Ian Allison?), need confirmation
 
 ## Wednesday June-21
 
@@ -33,7 +33,7 @@
 
 ### morning
 * [*Scientific visualization*](alex2.md), by Alex Razoumov
-* Jeremy Heyl (UBC astrophysics), a course on a stellar modeling code?, need confirmation
+* [*Physics and astrophysics modeling*](jeremy.md), by Jeremy Heyl
 
 ### afternoon
 * parallelization in Python 3 + large datasets, Phil Austin (EOAS), confirmed with syllabus
