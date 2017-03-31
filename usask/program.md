@@ -32,7 +32,7 @@
 
 ### morning
 * 4 GPU programming with CUDA full-day
-* 5 Visualization (3 hours or full-day if needed)
+* 5 Visualization 3 hours or full-day if needed
 
 ### afternoon
 * 4 GPU programming with CUDA full-day
