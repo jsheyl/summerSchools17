@@ -1,11 +1,11 @@
 ## Monday July-24
 
 ### morning
-* 1 *Introduction to HPC full-day*, by Alex Razoumov full-day
+* 1 [*Introduction to HPC*](alex1.md), by Alex Razoumov full-day
 * 9 *HPC in material science* 3 hours
 
 ### afternoon
-* 1 *Introduction to HPC*, by Alex Razoumov full-day
+* 1 [*Introduction to HPC*](alex1.md), by Alex Razoumov full-day
 * 8 *HPC in Bioinformatics*, by Mathew Links 3 hours
 
 ## Tuesday July-25
@@ -33,7 +33,7 @@
 
 ### morning
 * 4 *GPU programming with CUDA*, by Juan Zuniga full-day
-* 5 *Visualization*, by Alex Razoumov 3 hours or full-day if needed
+* 5 [*Visualization*](alex2.md), by Alex Razoumov 3 hours or full-day if needed
 
 ### afternoon
 * 4 *GPU programming with CUDA*, by Juan Zuniga full-day
