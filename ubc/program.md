@@ -5,7 +5,7 @@
 * *Bioinformatics*, 5(!) GSC instructors, confirmed with syllabus
 
 ### afternoon
-* *MPI/PETSc/Mira course*, Mauricio Ponga (UBC mechanical engineering), need confirmation
+* [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md), by Mauricio Ponga
 * [*Introduction to parallel and distributed computing in high-level programming languages: MATLAB and Julia*](henryk.md),
   by Henryk Modzelewski
 

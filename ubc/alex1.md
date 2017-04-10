@@ -9,8 +9,8 @@
 **Prerequisites**:
 
 **Course plan**:
-- hardware overview
 - verify that all attendees can access the cluster that will be used during the school
+- hardware overview
 - basic knowledge/tools they need to work with the cluster: how to login, transfer files, make scripts,
   compile code, submit jobs, etc.
 - debugging
