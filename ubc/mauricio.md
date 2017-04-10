@@ -7,6 +7,7 @@
 **Target audience**:
 
 **Prerequisites**:
+* some basic knowledge of MPI
 
 **Course plan**:
 1. Introduction to hybrid programming and techniques
