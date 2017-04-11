@@ -2,6 +2,8 @@
 
 **Title**: Utilizing HPC resources
 
+An introduction to high-performance computing for those without any HPC experience.
+
 **Duration**: 3 hours
 
 **Target audience**: general
@@ -13,7 +15,7 @@
 **Course plan**:
 - verify that all attendees can access the cluster that will be used during the school
 - hardware overview
-- basic knowledge/tools they need to work with the cluster: how to login, transfer files, make scripts,
+- basic knowledge/tools necessary to work with the cluster: how to log in, transfer files, make scripts,
   compile code, submit jobs, etc.
 - debugging
 - profiling
@@ -24,3 +26,5 @@
 **Other information**:
 
 **Setup requirements**:
+- Cedar reservation
+- Cedar guest accounts
