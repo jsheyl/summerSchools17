@@ -27,7 +27,7 @@
 
 ### afternoon
 * [*Introduction to Compute Canada Cloud*](brent.md), by Brent Gawryliuk
-* *Gaussian and GaussView*, by Gino DiLabio (UBC Okanagan), details TBA
+* *Gaussian and GaussView*, by Gino DiLabio (UBC Okanagan chemistry), details TBA
 
 ## Thursday June-22
 
@@ -36,5 +36,5 @@
 * [*Physics and astrophysics modeling*](jeremy.md), by Jeremy Heyl
 
 ### afternoon
-* *Parallelization in Python 3 and large datasets*, Phil Austin (UBC EOAS), details TBA
+* *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC EOAS), details TBA
 * *Spark and Hadoop with IBM*, by IBM
