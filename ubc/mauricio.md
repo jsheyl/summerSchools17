@@ -6,6 +6,8 @@
 
 **Target audience**:
 
+**Level**: expert
+
 **Prerequisites**:
 * some basic knowledge of MPI
 

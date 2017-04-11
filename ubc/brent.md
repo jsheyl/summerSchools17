@@ -4,9 +4,10 @@
 
 **Duration**: 3 hours
 
-**Target audience**: very beginner, this course is targeted at people who've never orchestrated cloud
-resources before and have never deployed web software applications, such as WordPress, in a cloud
-environment
+**Target audience**: this course is targeted at people who've never orchestrated cloud resources before
+and have never deployed web software applications, such as WordPress, in a cloud environment
+
+**Level**: beginner
 
 **Prerequisites**:
 - know what a cloud is

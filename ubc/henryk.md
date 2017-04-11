@@ -7,14 +7,12 @@ and Julia
 
 **Target audience**: general with rudimentary programming knowledge
 
+**Level**: beginner
+
 **Prerequisites**:
 - rudimentary knowledge of programming
 - basic command-line skills in Unix environment
 - basic editing skills in Unix environment (vim and better)
-- access to MATLAB (R2015b+) runtime (including Parallel Computing Toolbox)
-- access to Julia (0.5+) runtime (network access for installing Julia packages)
-- installed git accompanying both MATLAB and Julia runtime
-- installed GNU gcc compilers (4.4+) accompanying both MATLAB and Julia runtime
 
 **Course plan**:
 
@@ -30,3 +28,7 @@ and Julia
 **Other information**:
 
 **Setup requirements**:
+- access to MATLAB (R2015b+) runtime (including Parallel Computing Toolbox)
+- access to Julia (0.5+) runtime (network access for installing Julia packages)
+- installed git accompanying both MATLAB and Julia runtime
+- installed GNU gcc compilers (4.4+) accompanying both MATLAB and Julia runtime

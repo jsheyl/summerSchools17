@@ -6,6 +6,8 @@
 
 **Target audience**:
 
+**Level**: beginner, intermediate, expert
+
 **Prerequisites**:
 * first item
 * second item

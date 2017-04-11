@@ -6,6 +6,8 @@
 
 **Target audience**: Researchers who develop their own code and consider porting them to GPU
 
+**Level**: intermediate
+
 **Prerequisites**:
 * Being able to login and interact (edit files, navigate directories) with a Linux computer in a
   command-line environment using SSH

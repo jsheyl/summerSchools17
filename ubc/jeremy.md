@@ -6,6 +6,8 @@
 
 **Target audience**:
 
+**Level**: intermediate
+
 **Prerequisites**:
 
 **Course plan**:

@@ -2,7 +2,7 @@
 
 ### morning
 * [*Utilizing HPC resources*](alex1.md), by Alex Razoumov
-* *Bioinformatics*, 5(!) GSC instructors, confirmed with syllabus
+* *Bioinformatics*, by instructors from the GSC, details TBA
 
 ### afternoon
 * [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md), by Mauricio Ponga
@@ -13,23 +13,21 @@
 
 ### morning
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
-* *Restful APIs* (partnership with UBC library through Eugene Barsky) (Schuyler Lindberg?), confirmed
-  with syllabus
+* *Restful APIs*, by Schuyler Lindberg (UBC Library), details TBA
 
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault (continued)
-* *Intro to jupyter notebooks*, someone from PIMS (Ian Allison?), need confirmation
+* *Intro to Jupyter notebooks*, by Patrick Wall (PIMS), details TBA
 
 ## Wednesday June-21
 
 ### morning
-* *1/2-day cloud intro* from either Scalar or IBM, general overview, hands-on examples, confirmed with
-  syllabus
-* *Object storage in Compute Canada*, working on this one
+* *1/2-day cloud intro*, by Scalar, details TBA
+* *Object storage in Compute Canada*, tentative, details TBA
 
 ### afternoon
 * [*Introduction to Compute Canada Cloud*](brent.md), by Brent Gawryliuk
-* *Gaussian and GaussView*, by Gino DiLabio (UBC Okanagan chemistry), need confirmation
+* *Gaussian and GaussView*, by Gino DiLabio (UBC Okanagan), details TBA
 
 ## Thursday June-22
 
@@ -38,5 +36,5 @@
 * [*Physics and astrophysics modeling*](jeremy.md), by Jeremy Heyl
 
 ### afternoon
-* *Parallelization in Python 3 and large datasets*, Phil Austin (EOAS), confirmed with syllabus
-* *Chapel*, need an instructor
+* *Parallelization in Python 3 and large datasets*, Phil Austin (UBC EOAS), details TBA
+* *Spark and Hadoop with IBM*, by IBM
