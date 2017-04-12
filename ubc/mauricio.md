@@ -1,4 +1,4 @@
-**Instructor**: Mauricio Ponga (UBC mechanical engineering)
+**Instructor**: Mauricio Ponga (UBC Mechanical Engineering)
 
 **Title**: Introduction to hybrid programming with MPI+OpenMP
 

@@ -1,4 +1,4 @@
-**Instructor**: Henryk Modzelewski (EOAS)
+**Instructor**: Henryk Modzelewski (UBC Earth, Ocean and Atmospheric Sciences)
 
 **Title**: Introduction to parallel and distributed computing in high-level programming languages: MATLAB
 and Julia

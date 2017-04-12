@@ -1,4 +1,4 @@
-**Instructor**: Brent Gawryluik (UBC)
+**Instructor**: Brent Gawryluik (UBC Advanced Research Computing)
 
 **Title**: Introduction to Compute Canada Cloud
 

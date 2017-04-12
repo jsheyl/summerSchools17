@@ -1,4 +1,4 @@
-**Instructor**: Jeremy Heyl (UBC)
+**Instructor**: Jeremy Heyl (UBC Physics and Astronomy)
 
 **Title**: Physics and astrophysics modeling
 
