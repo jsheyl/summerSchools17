@@ -34,7 +34,7 @@
 ## Thursday June-22
 
 ### morning
-* [*Scientific visualization*](alex2.md), by Alex Razoumov, beginner level
+* [*Scientific visualization with ParaView*](alex2.md), by Alex Razoumov, beginner level
 * [*Physics and astrophysics modeling*](jeremy.md), by Jeremy Heyl, intermediate level
 
 ### afternoon
