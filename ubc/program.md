@@ -19,7 +19,7 @@
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
   (continued), intermediate level
-* *Restful APIs*, by Schuyler Lindberg (UBC Library), details TBA
+* [*Restful APIs*](schuyler.md), by Schuyler Lindberg, details TBA
 
 ## Wednesday June-21
 
