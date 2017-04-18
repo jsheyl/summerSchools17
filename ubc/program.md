@@ -14,12 +14,12 @@
 ### morning
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault,
   intermediate level
-* *Restful APIs*, by Schuyler Lindberg (UBC Library), details TBA
+* *Intro to Jupyter notebooks*, by Patrick Wall (PIMS), details TBA
 
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
   (continued), intermediate level
-* *Intro to Jupyter notebooks*, by Patrick Wall (PIMS), details TBA
+* *Restful APIs*, by Schuyler Lindberg (UBC Library), details TBA
 
 ## Wednesday June-21
 
@@ -41,3 +41,15 @@
 * *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC Earth, Ocean and Atmospheric
   Sciences), details TBA
 * *Spark and Hadoop with IBM*, by IBM, details TBA
+
+
+
+
+Slight adjustment to the HPCS SS schedule. We’re switching Schuyler and Patrick (Ian Allison’s
+presentation). I have also confirmed this with Schuyler. Could you please follow up with Patrick with
+regard to his question?
+
+Schedule for June 20th now is as follows:
+
+Morning  - Patrick Walls
+Afternoon – Schuyler Lindberg
