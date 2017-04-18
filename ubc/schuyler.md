@@ -6,11 +6,9 @@
 
 **Target audience**:
 
-**Level**: beginner, intermediate, expert
+**Level**:
 
 **Prerequisites**:
-* first item
-* second item
 
 **Course plan**:
 
@@ -21,5 +19,3 @@
 * might include siple visualizations with http://bokeh.pydata.org as a fun way to dip into the APIs
 
 **Setup requirements**:
-* first item
-* second item
