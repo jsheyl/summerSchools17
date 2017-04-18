@@ -41,15 +41,3 @@
 * *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC Earth, Ocean and Atmospheric
   Sciences), details TBA
 * *Spark and Hadoop with IBM*, by IBM, details TBA
-
-
-
-
-Slight adjustment to the HPCS SS schedule. We’re switching Schuyler and Patrick (Ian Allison’s
-presentation). I have also confirmed this with Schuyler. Could you please follow up with Patrick with
-regard to his question?
-
-Schedule for June 20th now is as follows:
-
-Morning  - Patrick Walls
-Afternoon – Schuyler Lindberg
