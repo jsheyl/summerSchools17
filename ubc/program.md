@@ -8,6 +8,16 @@ smaller classroom (room 3208).
 This page will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
 
+**Important**: Before the start of the summer school all eligible attendees must obtain:
+1. their Compute Canada acounts. You can find detailed instructions
+   [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
+   note that you need only a CCDB account to log in to the new systems, so only Step 1 (and Step 3 for
+   your supervisor) will need to be completed (but not Step 2).
+2. their Eduroam accounts through their home institutions. You will need online access to complete the
+   hands-on exercises, log in to remote systems, view documentation, etc., so please make sure you can
+   sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
+   institution.
+
 ## Monday June-19
 
 ### morning
@@ -52,16 +62,6 @@ detailed course information.
 * *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC Earth, Ocean and Atmospheric
   Sciences), details TBA
 * *Spark and Hadoop with IBM*, by IBM, details TBA
-
-**Important**: Before the start of the summer school all eligible attendees must obtain:
-1. their Compute Canada acounts. You can find detailed instructions
-   [here](https://www.westgrid.ca/support/accounts/registering_ccdb). Please note that you need only a
-   CCDB account to log in to the new systems, so Steps 1 and 3 will need to be completed (but not Step
-   2).
-2. their Eduroam accounts through their home institutions. You will need online access to complete the
-   hands-on exercises, log in to remote systems, view documentation, etc., so please make sure you can
-   sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
-   institution.
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
