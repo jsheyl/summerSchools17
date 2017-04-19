@@ -51,7 +51,7 @@ detailed course information.
 ### afternoon
 * *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC Earth, Ocean and Atmospheric
   Sciences), details TBA
-  * *Spark and Hadoop with IBM*, by IBM, details TBA
+* *Spark and Hadoop with IBM*, by IBM, details TBA
 
 **Important**: Before the start of the summer school all eligible attendees must obtain:
 1. their Compute Canada acounts. You can find detailed instructions
