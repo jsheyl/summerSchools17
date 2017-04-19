@@ -11,24 +11,25 @@ detailed course information.
 ## Monday June-19
 
 ### morning
-* [*Utilizing HPC resources*](alex1.md), by Alex Razoumov, <span style="color:green">beginner level</span>
+* [*Utilizing HPC resources*](alex1.md), by Alex Razoumov ![beginner](beginner.png)
 * *Bioinformatics*, by instructors from the GSC, details TBA
 
 ### afternoon
-* [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md), by Mauricio Ponga, expert level
+* [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md), by Mauricio Ponga
+  ![expert](expert.png)
 * [*Introduction to parallel and distributed computing in high-level programming languages: MATLAB and Julia*](henryk.md),
-  by Henryk Modzelewski, beginner level
+  by Henryk Modzelewski ![beginner](beginner.png)
 
 ## Tuesday June-20
 
 ### morning
-* [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault,
-  intermediate level
+* [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
+  ![intermediate](intermediate.png)
 * *Intro to Jupyter notebooks*, by Patrick Wall (PIMS), details TBA
 
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
-  (continued), intermediate level
+  (continued) ![intermediate](intermediate.png)
 * *Restful APIs*, by Schuyler Lindberg, details TBA
 
 ## Wednesday June-21
@@ -38,14 +39,14 @@ detailed course information.
 * *Object storage in Compute Canada*, tentative, details TBA
 
 ### afternoon
-* [*Introduction to Compute Canada Cloud*](brent.md), by Brent Gawryliuk, beginner level
+* [*Introduction to Compute Canada Cloud*](brent.md), by Brent Gawryliuk ![beginner](beginner.png)
 * *Gaussian and GaussView*, by Gino DiLabio (UBC Okanagan Chemistry), details TBA
 
 ## Thursday June-22
 
 ### morning
-* [*Scientific visualization with ParaView*](alex2.md), by Alex Razoumov, beginner level
-* [*Physics and astrophysics modeling*](jeremy.md), by Jeremy Heyl, intermediate level
+* [*Scientific visualization with ParaView*](alex2.md), by Alex Razoumov ![beginner](beginner.png)
+* [*Physics and astrophysics modeling*](jeremy.md), by Jeremy Heyl ![intermediate](intermediate.png)
 
 ### afternoon
 * *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC Earth, Ocean and Atmospheric
