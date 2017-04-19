@@ -1,7 +1,17 @@
+# WestGrid Research Computing Summer School - UBC
+## Schedule & Session Details
+
+Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take
+place in two rooms in the Pharmaceutical Sciences Building: a larger lecture theatre (room 1201) and a
+smaller classroom (room 3208).
+
+This page will continue to be updated as details are confirmed for room assignments, session times and
+detailed course information.
+
 ## Monday June-19
 
 ### morning
-* [*Utilizing HPC resources*](alex1.md), by Alex Razoumov, beginner level
+* [*Utilizing HPC resources*](alex1.md), by Alex Razoumov, <span style="color:green">beginner level</span>
 * *Bioinformatics*, by instructors from the GSC, details TBA
 
 ### afternoon
@@ -40,4 +50,11 @@
 ### afternoon
 * *Parallelization in Python 3 and large datasets*, by Phil Austin (UBC Earth, Ocean and Atmospheric
   Sciences), details TBA
-* *Spark and Hadoop with IBM*, by IBM, details TBA
+  * *Spark and Hadoop with IBM*, by IBM, details TBA
+
+If you have questions or would like more information on any of the courses listed above, please contact
+[Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
+
+This event is brought to you by WestGrid (https://www.westgrid.ca) and the UBC ARC Department (https://arc.ubc.ca)
+
+![WestGrid and UBC](logos.png)
