@@ -47,7 +47,7 @@ detailed course information.
 
 ### morning
 * *1/2-day cloud intro*, by Scalar, details TBA
-* *Object storage in Compute Canada*, tentative, details TBA
+* *Introduction to object storage*, by DDN, details TBA
 
 ### afternoon
 * [*Introduction to Compute Canada Cloud*](brent.md), by Brent Gawryliuk ![beginner](beginner.png)
