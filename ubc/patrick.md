@@ -1,25 +1,19 @@
 **Instructor**: Patrick Wall (PIMS)
 
-**Title**: Intro to Jupyter notebooks
+**Title**: Introduction to Jupyter notebooks and scientific computing in Python
 
 **Duration**: 3 hours
 
-**Target audience**:
+**Target audience**: general
 
-**Level**: beginner, intermediate, expert
+**Level**: beginner
 
 **Prerequisites**:
-* first item
-* second item
+* no prior knowledge
 
 **Course plan**:
-1. first item
-1. second item
-  1. first subitem
-  1. second subitem
-1. third item
 
-**Other information**:
+**Other information**: The instructor will direct participants to log in to ubc.syzygy.ca or
+pims.syzygy.ca for the session so that there is no software installation required.
 
 **Setup requirements**:
-* Patrick is teaching in his regular job the same afternoon, so we need to swap for a morning session

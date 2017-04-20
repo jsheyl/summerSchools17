@@ -35,7 +35,8 @@ detailed course information.
 ### morning
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
   ![intermediate](intermediate.png)
-* *Intro to Jupyter notebooks*, by Patrick Wall (PIMS), details TBA
+* [*Introduction to Jupyter notebooks and scientific computing in Python*](patrick.md), by Patrick Wall
+  ![beginner](beginner.png)
 
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
