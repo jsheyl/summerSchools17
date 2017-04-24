@@ -22,12 +22,10 @@ and have never deployed web software applications, such as WordPress, in a cloud
   - their own notebook computers to work on
   - access to the UBC (or eduroam) wireless network
 
-**Course plan**:
-
-Content: The cloud is a powerful tool for conducting and managing academic research. This course is
-intended for researchers who want to learn how to use Compute Canada cloud resources to deploy web-based
-applications, such as WordPress. By the end of these lessons, researchers will learn how to accomplish
-the following cloud administration skills:
+**Course plan**: The cloud is a powerful tool for conducting and managing academic research. This course
+is intended for researchers who want to learn how to use Compute Canada cloud resources to deploy
+web-based applications, such as WordPress. By the end of these lessons, researchers will learn how to
+accomplish the following cloud administration skills:
 
 - manage SSH key pairs
 - manage Security Groups and Security Group rules
