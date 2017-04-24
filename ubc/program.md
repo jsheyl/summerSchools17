@@ -41,7 +41,8 @@ detailed course information.
 ### afternoon
 * [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md), by Maxime Boissonneault
   (continued) ![intermediate](intermediate.png)
-* *Restful APIs*, by Schuyler Lindberg, details TBA
+* [*Introduction to Harvesting API Data in Python from UBC Library's Open Collections*](schuyler.md),
+  by Schuyler Lindberg ![beginner](beginner.png)
 
 ## Wednesday June-21
 
