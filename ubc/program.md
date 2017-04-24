@@ -52,7 +52,8 @@ detailed course information.
 
 ### afternoon
 * [*Introduction to Compute Canada Cloud*](brent.md), by Brent Gawryliuk ![beginner](beginner.png)
-* *Gaussian and GaussView*, by Gino DiLabio (UBC Okanagan Chemistry), details TBA
+* *Application of Computational Chemistry Techniques using the Gaussian Program*, by Gino DiLabio (UBC
+  Okanagan Chemistry), details TBA
 
 ## Thursday June-22
 
