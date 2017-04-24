@@ -11,12 +11,10 @@ familiarity with Python is recommended. If you are new to Python, please take th
 [the free introductory lessons](https://www.codecademy.com/learn/python). A basic familiarity with Python
 syntax, lists, and loops will allow you to get the most out of the course.
 
-**Course plan**:
-
-This course is intended to cover the fundamentals for programmatically accessing and harvesting data from
-open web APIs. It will provide an introduction to the key concepts required to gather data from UBC
-Library's Open Collections API using Python. You will learn how to structure and send basic GET and POST
-requests, and to receive and parse JSON responses.
+**Course plan**: This course is intended to cover the fundamentals for programmatically accessing and
+harvesting data from open web APIs. It will provide an introduction to the key concepts required to
+gather data from UBC Library's Open Collections API using Python. You will learn how to structure and
+send basic GET and POST requests, and to receive and parse JSON responses.
 
 - What is an API? A Brief Overview
 - Getting Started with the Open Collections API
