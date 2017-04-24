@@ -8,7 +8,8 @@ smaller classroom (room 3208).
 This page will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
 
-**Important**: Before the start of the summer school all eligible attendees must obtain:
+**Important**: All attendees must bring their laptops and power cords (if your battery does not last
+all day). Before the start of the summer school all eligible attendees must obtain:
 1. their Compute Canada acounts. You can find detailed instructions
    [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
    note that you need only a CCDB account to log in to the new systems, so only Step 1 (and Step 3 for
