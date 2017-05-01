@@ -10,6 +10,6 @@ Introduction to research data management.
 
 **Duration**: 3 hours, full day
 
-**Level**: beginner, intermediate, expert
+**Level**: beginner
 
 **Prerequisites**: *Introduction to HPC* session
