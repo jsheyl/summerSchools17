@@ -1,40 +1,28 @@
-## Monday July-24
+# WestGrid Research Computing Summer School - University of Saskatchewan
+## Schedule & Session Details
 
-### morning
-* 1 [*Introduction to HPC*](alex1.md), by Alex Razoumov full-day
-* 9 *HPC in material science* 3 hours
+Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. Room information will
+be announced shortly. This page will continue to be updated as details are confirmed for room
+assignments, session times and detailed course information.
 
-### afternoon
-* 1 [*Introduction to HPC*](alex1.md), by Alex Razoumov full-day
-* 8 *HPC in Bioinformatics*, by Mathew Links 3 hours
+**Important**: All attendees must bring their laptops and power cords (if your battery does not last
+all day). Before the start of the summer school all eligible attendees must obtain:
+1. their Compute Canada acounts. You can find detailed instructions
+   [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
+   note that you need only a CCDB account to log in to the new systems, so only Step 1 (and Step 3 for
+   your supervisor) will need to be completed (but not Step 2).
+2. their Eduroam accounts through their home institutions. You will need online access to complete the
+   hands-on exercises, log in to remote systems, view documentation, etc., so please make sure you can
+   sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
+   institution.
 
-## Tuesday July-25
-
-### morning
-* 2a *Classic HPC programming (MPI, OpenMP)*, by Juan Zuniga or Alex Razoumov full-day
-* 2b *Alternatives in HPC programming (Python, Matlab, R)*, by ? full-day
-
-### afternoon
-* 2a *Classic HPC programming (MPI, openMP)*, by Juan Zuniga or Alex Razoumov full-day
-* 2b *Alternatives in HPC programming (Python, Matlab, R)*, by ? full-day
-
-## Wednesday July-26
-
-### morning
-* 2c *HPC programming in Chapel*, by Alex Razoumov 3 hours
-* 3 *Use of GPUs (accelerators)*, by Juan Zuniga 3 hours
-
-### afternoon
-* 7 *PETSC: scientific computing and HPC (focused on modeling and simulation of dynamic systems)*, by Ray
-  Spiteri (or his postdoc) 3 hours
-* 6 *Globus and research data management*, by Sergiy Stepanenko 3 hours
-
-## Thursday July-27
-
-### morning
-* 4 *GPU programming with CUDA*, by Juan Zuniga full-day
-* 5 [*Visualization*](alex2.md), by Alex Razoumov 3 hours or full-day if needed
-
-### afternoon
-* 4 *GPU programming with CUDA*, by Juan Zuniga full-day
-* 10 *IBM workshops* (demonstrations) 3 hours
+| date and time | room A | room B |
+| ------------- | ------ | ------ |
+| Monday July-24 morning | [*Introduction to HPC*](intro.md) by Alex Razoumov and Sergiy Stepanenko | - |
+| Monday July-24 afternoon | [*Introduction to HPC*](intro.md) by Alex Razoumov | - |
+| Tuesday July-25 morning | [*Parallel programming in Chapel*](chapel.md) by Juan Zuniga and Alex Razoumov | - |
+| Tuesday July-25 afternoon | [*Parallel programming in Chapel*](chapel.md) by Juan Zuniga and Alex Razoumov | - |
+| Wednesday July-26 morning | [*Scientific computing with PETSc*](petsc.md) by Ray Spiteri and Kevin Green | [*Visualization*](visualization.md) by Alex Razoumov |
+| Wednesday July-26 afternoon | [*Scientific computing with PETSc*](petsc.md) by Ray Spiteri and Kevin Green | [*Globus and research data management*](globus.md) by Sergiy Stepanenko |
+| Thursday July-27 morning | [*Use of GPUs (accelerators)*](gpus.md) by Juan Zuniga | [*HPC in Bioinformatics*](bioinfo.md) by Mathew Links |
+| Thursday July-27 afternoon | [*GPU programming with CUDA*](cuda.md) by Juan Zuniga | [*HPC in Material Science*](material.md) by Yansun Yao and John Tse |

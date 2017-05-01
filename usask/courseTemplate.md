@@ -1,26 +1,16 @@
-**Instructor**:
+**Instructor**: 
 
-**Title**:
+**Title**: 
 
-**Duration**:
+some description
 
-**Target audience**:
+**Objectives**:
+- one
+- two
+- three
+
+**Duration**: 3 hours, full day
 
 **Level**: beginner, intermediate, expert
 
-**Prerequisites**:
-* first item
-* second item
-
-**Course plan**:
-1. first item
-1. second item
-  1. first subitem
-  1. second subitem
-1. third item
-
-**Other information**:
-
-**Setup requirements**:
-* first item
-* second item
+**Prerequisites**: None
