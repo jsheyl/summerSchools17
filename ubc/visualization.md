@@ -6,16 +6,7 @@ ParaView is an open-source, multi-platform data analysis and visualization tool.
 interactively visualize and analyze 2D and 3D spatial data, animate these datasets in time, and
 manipulate them with a variety of filters.
 
-**Duration**: 3 hours
-
 **Target audience**: anyone interested in 3D scientific visualization
-
-**Level**: beginner
-
-**Prerequisites**: Attendees should bring their laptops with the latest version of ParaView installed
-from http://www.paraview.org/download. No prior visualization experience is required. We will provide
-sample data and codes for many interactive hands-on exercises, and you can bring your dataset if you
-would like to visualize it with ParaView.
 
 **Course plan**:
 - introduction and tool comparison
@@ -30,3 +21,12 @@ would like to visualize it with ParaView.
 **Other information**:
 
 **Setup requirements**:
+
+**Duration**: 3 hours
+
+**Level**: beginner
+
+**Prerequisites**: Attendees should bring their laptops with the latest version of ParaView installed
+from http://www.paraview.org/download. No prior visualization experience is required. We will provide
+sample data and codes for many interactive hands-on exercises, and you can bring your dataset if you
+would like to visualize it with ParaView.

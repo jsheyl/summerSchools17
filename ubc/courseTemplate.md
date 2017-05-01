@@ -2,15 +2,7 @@
 
 **Title**:
 
-**Duration**:
-
 **Target audience**:
-
-**Level**: beginner, intermediate, expert
-
-**Prerequisites**:
-* first item
-* second item
 
 **Course plan**:
 1. first item
@@ -22,5 +14,13 @@
 **Other information**:
 
 **Setup requirements**:
+* first item
+* second item
+
+**Duration**:
+
+**Level**: beginner, intermediate, expert
+
+**Prerequisites**:
 * first item
 * second item

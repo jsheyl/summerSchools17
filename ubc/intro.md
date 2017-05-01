@@ -4,13 +4,7 @@
 
 An introduction to high-performance computing for those without any HPC experience.
 
-**Duration**: 3 hours
-
 **Target audience**: general
-
-**Level**: beginner
-
-**Prerequisites**:
 
 **Course plan**:
 - verify that all attendees can access the cluster that will be used during the school
@@ -28,3 +22,9 @@ An introduction to high-performance computing for those without any HPC experien
 **Setup requirements**:
 - Cedar reservation
 - Cedar guest accounts
+
+**Duration**: 3 hours
+
+**Level**: beginner
+
+**Prerequisites**:
