@@ -19,54 +19,16 @@ all day). Before the start of the summer school all eligible attendees must obta
    sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
    institution.
 
-## Monday June-19
-
-### morning
-* [*Introduction to HPC*](intro.md) by Alex Razoumov ![beginner](beginner.png)
-* [*Bioinformatics session*](bioinfo.md) by Eric Chuah, Kane Tse, Nina Thiessen ![beginner](beginner.png)
-  ![intermediate](intermediate.png)
-
-### afternoon
-* [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md) by Mauricio Ponga
-  ![expert](expert.png)
-* [*Introduction to parallel and distributed computing in high-level programming languages: MATLAB and Julia*](henryk.md),
-  by Henryk Modzelewski ![beginner](beginner.png)
-
-## Tuesday June-20
-
-### morning
-* [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault
-  ![intermediate](intermediate.png)
-* [*Introduction to Jupyter notebooks and scientific computing in Python*](patrick.md) by Patrick Wall
-  ![beginner](beginner.png)
-
-### afternoon
-* [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault
-  (continued) ![intermediate](intermediate.png)
-* [*Introduction to Harvesting API Data in Python from UBC Library's Open Collections*](schuyler.md),
-  by Schuyler Lindberg ![beginner](beginner.png)
-
-## Wednesday June-21
-
-### morning
-* *1/2-day cloud intro* by Scalar, details TBA
-* *Introduction to object storage* by DDN, details TBA
-
-### afternoon
-* [*Introduction to Compute Canada Cloud*](brent.md) by Brent Gawryliuk ![beginner](beginner.png)
-* *Application of Computational Chemistry Techniques using the Gaussian Program* by Gino DiLabio (UBC
-  Okanagan Chemistry), details TBA ![intermediate](intermediate.png)
-
-## Thursday June-22
-
-### morning
-* [*Scientific visualization with ParaView*](visualization.md) by Alex Razoumov ![beginner](beginner.png)
-* [*Physics and astrophysics modeling*](jeremy.md) by Jeremy Heyl ![intermediate](intermediate.png)
-
-### afternoon
-* *Parallelization in Python 3 and large datasets* by Phil Austin (UBC Earth, Ocean and Atmospheric
-  Sciences), details TBA
-* *Spark and Hadoop with IBM* by IBM, details TBA
+| date and time | lecture theatre | smaller classroom |
+| ------------- | --------------- | ----------------- |
+| Monday June-19 morning | [*Introduction to HPC*](intro.md) by Alex Razoumov ![beginner](beginner.png) | [*Bioinformatics session*](bioinfo.md) by Eric Chuah, Kane Tse, Nina Thiessen ![beginner](beginner.png) ![intermediate](intermediate.png) |
+| Monday June-19 afternoon | [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md) by Mauricio Ponga ![expert](expert.png) | [*Introduction to parallel and distributed computing in high-level programming languages: MATLAB and Julia*](henryk.md) by Henryk Modzelewski ![beginner](beginner.png) |
+| Tuesday June-20 morning | [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault ![intermediate](intermediate.png) | [*Introduction to Jupyter notebooks and scientific computing in Python*](patrick.md) by Patrick Wall ![beginner](beginner.png) |
+| Tuesday June-20 afternoon | [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault (continued) ![intermediate](intermediate.png) | [*Introduction to Harvesting API Data in Python from UBC Library's Open Collections*](schuyler.md) by Schuyler Lindberg ![beginner](beginner.png) |
+| Wednesday June-21 morning | *1/2-day cloud intro* by Scalar, details TBA | *Introduction to object storage* by DDN, details TBA |
+| Wednesday June-21 afternoon | [*Introduction to Compute Canada Cloud*](brent.md) by Brent Gawryliuk ![beginner](beginner.png) | *Application of Computational Chemistry Techniques using the Gaussian Program* by Gino DiLabio (UBC Okanagan Chemistry), details TBA ![intermediate](intermediate.png) |
+| Thursday June-22 morning | [*Scientific visualization with ParaView*](visualization.md) by Alex Razoumov ![beginner](beginner.png) | [*Physics and astrophysics modeling*](jeremy.md) by Jeremy Heyl ![intermediate](intermediate.png) |
+| Thursday June-22 afternoon | *Parallelization in Python 3 and large datasets* by Phil Austin (UBC Earth, Ocean and Atmospheric Sciences), details TBA | *Spark and Hadoop with IBM* by IBM, details TBA |
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
