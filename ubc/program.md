@@ -30,7 +30,7 @@ all day). Before the start of the summer school all eligible attendees must obta
 | Wednesday June-21 morning | *1/2-day cloud intro* by Scalar, details TBA | *Introduction to object storage* by DDN, details TBA |
 | Wednesday June-21 afternoon | [*Introduction to Compute Canada Cloud*](brent.md) by Brent Gawryliuk ![beginner](beginner.png) | *Application of Computational Chemistry Techniques using the Gaussian Program* by Gino DiLabio (UBC Okanagan Chemistry), details TBA ![intermediate](intermediate.png) |
 | Thursday June-22 morning | [*Scientific visualization with ParaView*](visualization.md) by Alex Razoumov ![beginner](beginner.png) | [*Physics and astrophysics modeling*](jeremy.md) by Jeremy Heyl ![intermediate](intermediate.png) |
-| Thursday June-22 afternoon | *Parallelization in Python 3 and large datasets* by Phil Austin (UBC Earth, Ocean and Atmospheric Sciences), details TBA | *Spark and Hadoop with IBM* by IBM, details TBA |
+| Thursday June-22 afternoon | *Parallelization in Python 3 and large datasets* by Phil Austin (UBC Earth, Ocean and Atmospheric Sciences), details TBA | [*Data Science at Scale with Hadoop, Spark and The Data Science Experience*](ibm.md) by IBM ![beginner](beginner.png) |
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
