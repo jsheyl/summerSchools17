@@ -11,6 +11,8 @@ all day). Before the start of the summer school all eligible attendees must obta
    [here](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account). Please
    note that you need only a CCDB account to log in to the new systems, so only Step 1 (and Step 3 for
    your supervisor) will need to be completed (but not Step 2).
+  - if you are not eligible to apply for a WestGrid account (for non-academic attendees), we will provide
+    a guest account for you
 2. their Eduroam accounts through their home institutions. You will need online access to complete the
    hands-on exercises, log in to remote systems, view documentation, etc., so please make sure you can
    sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
