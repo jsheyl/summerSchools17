@@ -1,9 +1,9 @@
 # WestGrid Research Computing Summer School - University of Saskatchewan
 ## Schedule & Session Details
 
-Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. Room information will
-be added shortly. This page will continue to be updated as details are confirmed for room assignments,
-session times and detailed course information.
+Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take
+place in ARTS 102 and 133. This page will continue to be updated as details are confirmed for room
+assignments, session times and detailed course information.
 
 **Important**: All attendees must bring their laptops and power cords (if your battery does not last
 all day). Before the start of the summer school all eligible attendees must obtain:
@@ -18,8 +18,8 @@ all day). Before the start of the summer school all eligible attendees must obta
    sign in to Eduroam. If not sure how to obtain it, please contact the local IT department at your
    institution.
 
-| date and time | room A | room B |
-| ------------- | ------ | ------ |
+| date and time | ARTS 102 | ARTS 133 |
+| ------------- | -------- | -------- |
 | Monday July-24 morning | [*Introduction to HPC*](intro.md) by Alex Razoumov and Sergiy Stepanenko ![beginner](beginner.png) | - |
 | Monday July-24 afternoon | [*Introduction to HPC*](intro.md) by Alex Razoumov (continued) ![beginner](beginner.png) | - |
 | Tuesday July-25 morning | [*Parallel programming in Chapel*](chapel.md) by Juan Zuniga and Alex Razoumov ![beginner](beginner.png) | - |
