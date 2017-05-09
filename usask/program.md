@@ -1,4 +1,8 @@
 # WestGrid Research Computing Summer School - University of Saskatchewan
+
+The school will take place from July 24 to July 27 at the University of Saskatchewan. Registration is
+[now open](https://www.eventbrite.ca/e/westgrid-research-computing-summer-school-uofs-tickets-34271800879).
+
 ## Schedule & Session Details
 
 Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take

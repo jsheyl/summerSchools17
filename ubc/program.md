@@ -1,4 +1,8 @@
 # WestGrid Research Computing Summer School - UBC
+
+The school will take place from June 19 to June 22 at the UBC main campus in Vancouver. Registration is
+[now open](https://www.eventbrite.ca/e/westgrid-research-computing-summer-school-ubc-tickets-33260995533).
+
 ## Schedule & Session Details
 
 Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take
