@@ -1,6 +1,6 @@
 **Instructor**: Alex Razoumov (WestGrid)
 
-**Title**: Utilizing HPC resources
+**Title**: Introduction to HPC
 
 An introduction to high-performance computing for those without any HPC experience.
 
@@ -17,14 +17,8 @@ An introduction to high-performance computing for those without any HPC experien
 - best practices
 - overview of what is going to be presented in the other sessions
 
-**Other information**:
-
-**Setup requirements**:
-- Cedar reservation
-- Cedar guest accounts
-
 **Duration**: 3 hours
 
 **Level**: beginner
 
-**Prerequisites**:
+**Prerequisites**: None
