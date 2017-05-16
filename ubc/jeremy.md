@@ -2,21 +2,15 @@
 
 **Title**: Physics and astrophysics modeling
 
-**Duration**: 3 hours
+Students will be introduced to the following three topics:
 
-**Target audience**:
+- Molecular Dynamics with LAMMPS
+- Multiphysics Simulations with FLASH
+- Stellar Evolution with MESA
+  - bonus: how to make beautiful plots and optimize numerics
+
+**Duration**: 3 hours
 
 **Level**: intermediate
 
-**Prerequisites**:
-
-**Course plan**:
-
-Students will be introduced to these three tools:
-- LAMMPS
-- FLASH 
-- MESA
-
-**Other information**:
-
-**Setup requirements**:
+**Prerequisites**: None
