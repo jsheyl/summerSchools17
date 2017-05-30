@@ -1,4 +1,4 @@
-**Instructor**: Patrick Wall (PIMS)
+**Instructor**: Patrick Walls (PIMS)
 
 **Title**: Introduction to Jupyter notebooks and scientific computing in Python
 

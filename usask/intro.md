@@ -20,4 +20,4 @@ This will be the big plenary session for all attendees on Day 1.
 
 **Level**: beginner
 
-**Prerequisites**: None
+**Prerequisites**: Basic knowledge of Linux command line

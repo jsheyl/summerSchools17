@@ -21,4 +21,4 @@ An introduction to high-performance computing for those without any HPC experien
 
 **Level**: beginner
 
-**Prerequisites**: None
+**Prerequisites**: Basic knowledge of Linux command line
