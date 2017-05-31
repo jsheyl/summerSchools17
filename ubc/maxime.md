@@ -31,10 +31,3 @@
     3.2 Expressing parallelism with OpenACC directives
     3.3 Expressing data movement
     3.4 Optimizing loops
-
-**Other information**:
-
-**Setup requirements**:
-* need GPU reservation on Cedar
-* need guest accounts on Cedar
-* need PGI compiler for OpenACC
