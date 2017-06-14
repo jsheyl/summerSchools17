@@ -33,8 +33,8 @@ all day). Before the start of the summer school all eligible attendees must obta
 | Tuesday **June-20** afternoon | [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault (continued) ![intermediate](intermediate.png) | [*Introduction to Harvesting API Data in Python from UBC Library's Open Collections*](schuyler.md) by Schuyler Lindberg ![beginner](beginner.png) |
 | Wednesday **June-21** morning | *1/2-day cloud intro* by Scalar, details TBA | *Introduction to object storage* by DDN, details TBA |
 | Wednesday **June-21** afternoon | [*Introduction to Compute Canada Cloud*](brent.md) by Brent Gawryliuk ![beginner](beginner.png) | [*Computational Chemistry with Gaussian*](gino.md) by Gino DiLabio ![intermediate](intermediate.png) |
-| Thursday **June-22** morning | [*Scientific visualization with ParaView*](visualization.md) by Alex Razoumov ![beginner](beginner.png) | [*Physics and astrophysics modeling*](jeremy.md) by Jeremy Heyl ![intermediate](intermediate.png) |
-| Thursday **June-22** afternoon | [*Data Science at Scale with Hadoop, Spark and The Data Science Experience*](ibm.md) by Matt McInnis ![beginner](beginner.png) | [*Parallelization in Python 3 and large datasets*](https://github.com/phaustin/parallel_python_course/blob/master/austin.md) by Phil Austin ![intermediate](intermediate.png) |
+| Thursday **June-22** morning | [*Scientific visualization with ParaView*](visualization.md) by Alex Razoumov ![beginner](beginner.png) | [*Parallelization in Python 3 and large datasets*](https://github.com/phaustin/parallel_python_course/blob/master/austin.md) by Phil Austin ![intermediate](intermediate.png) |
+| Thursday **June-22** afternoon | [*Data Science at Scale with Hadoop, Spark and The Data Science Experience*](ibm.md) by Matt McInnis ![beginner](beginner.png) | [*Physics and astrophysics modeling*](jeremy.md) by Jeremy Heyl ![intermediate](intermediate.png) |
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
