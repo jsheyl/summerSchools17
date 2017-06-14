@@ -6,8 +6,9 @@ The school will take place from June 19 to June 22 at UBC main campus in Vancouv
 ## Schedule & Session Details
 
 Morning sessions will be 9:00am-12:00pm. Afternoon sessions will be 1:00pm-4:00pm. All sessions will take
-place in two rooms in the Pharmaceutical Sciences Building: a larger lecture theatre (room 1201) and a
-smaller classroom (room 3208).
+place in two rooms in the Pharmaceutical Sciences Building (2405 Wesbrook Mall): a larger lecture theatre
+(room 1201) and a smaller classroom (room 3208). Here is the exact location in Google Maps
+http://bit.ly/2szij5F.
 
 This page will continue to be updated as details are confirmed for room assignments, session times and
 detailed course information.
