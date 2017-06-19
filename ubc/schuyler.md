@@ -17,21 +17,24 @@ gather data from UBC Library's Open Collections API using Python. You will learn
 send basic GET and POST requests, and to receive and parse JSON responses.
 
 - What is an API? A Brief Overview
-- Getting Started with the Open Collections API
-- Getting item data
-  - A single request: Get the full text from an item
-    - Make a Basic GET Request
-  - Understanding JSON
-  - Combining requests: Get the full text from multiple items
-  - Parsing the Data
-    - Term frequency with NLTK
-	- Visualize results
-- The Search API
-  - Returning search results with a POST request
-  - Using aggregates to construct advanced search queries
-  - Visualize your results
+    - Getting Started with the Open Collections API
+    - Understanding JSON
+- GETting item metadata
+    - Get the metadata from one item (basic GET request)
+    - Combining requests: Get metadata from multiple items
+    - Analyzing Text data with the Natural Language Toolkit (NLTK)
+- The Search API: POSTing a search request
+    - Keyword Search
+    - Filtered Search
+    - Aggregate Search Queries (Faceting)
+    - Visualize your results (time permitting)
 - Other APIs and ‘Where To Go From Here’
 
-**Setup requirements**: You will need a laptop with up-to-date versions of Python and Jupyter
-installed. Instructions for installation can be found [here](https://jupyter.org/install.html). Please
-ensure these are installed and working on your laptop in advance of the workshop.
+**Setup requirements**: 
+
+Please note that the setup requirements for this course have changed. We will no longer be using Jupyter notebooks.
+
+You will need a laptop with Python 3.5+ installed and a text editor or IDE that you are comfortable using. 
+Demonstrations will be given using PyCharm CE and this application is highly recommended to follow along. It can be downloaded for free at https://www.jetbrains.com/pycharm/download/
+
+Please arrive early if you require assistance getting set up.
