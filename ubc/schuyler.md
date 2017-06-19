@@ -23,7 +23,7 @@ send basic GET and POST requests, and to receive and parse JSON responses.
     - Get the metadata from one item (basic GET request)
     - Combining requests: Get metadata from multiple items
     - Analyzing Text data with the Natural Language Toolkit (NLTK)
-- The Search API: POSTing a search request
+- POSTing a search request
     - Keyword Search
     - Filtered Search
     - Aggregate Search Queries (Faceting)
