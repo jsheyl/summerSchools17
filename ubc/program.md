@@ -29,13 +29,20 @@ all day). Before the start of the summer school all eligible attendees must obta
 | date and time | lecture theatre | smaller classroom |
 | ------------- | --------------- | ----------------- |
 | Monday **June-19** morning | [*Introduction to HPC*](intro.md) by Alex Razoumov ![beginner](beginner.png) | [*Bioinformatics session*](bioinfo.md) by Eric Chuah, Kane Tse, Nina Thiessen ![beginner](beginner.png) ![intermediate](intermediate.png) |
-| Monday **June-19** afternoon | [*Introduction to parallel and distributed computing in high-level programming languages: MATLAB and Julia*](henryk.md) by Henryk Modzelewski ![beginner](beginner.png) | [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md) by Mauricio Ponga ![expert](expert.png) |
+| Monday **June-19** afternoon | [*Introduction to parallel and distributed computing in high-level programming languages (MATLAB and Julia)](henryk.md) by Henryk Modzelewski and Keegan Lensink ![beginner](beginner.png) | [*Introduction to hybrid programming with MPI+OpenMP*](mauricio.md) by Mauricio Ponga ![expert](expert.png) |
 | Tuesday **June-20** morning | [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault ![intermediate](intermediate.png) | [*Introduction to Jupyter notebooks and scientific computing in Python*](patrick.md) by Patrick Walls ![beginner](beginner.png) |
 | Tuesday **June-20** afternoon | [*Introduction to GPU programming with CUDA and OpenACC*](maxime.md) by Maxime Boissonneault (continued) ![intermediate](intermediate.png) | [*Introduction to Harvesting API Data in Python from UBC Library's Open Collections*](schuyler.md) by Schuyler Lindberg ![beginner](beginner.png) |
 | Wednesday **June-21** morning | *1/2-day cloud intro* by Scalar, details TBA | *Introduction to object storage* by DDN, details TBA |
 | Wednesday **June-21** afternoon | [*Introduction to Compute Canada Cloud*](brent.md) by Brent Gawryliuk ![beginner](beginner.png) | [*Computational Chemistry with Gaussian*](gino.md) by Gino DiLabio ![intermediate](intermediate.png) |
 | Thursday **June-22** morning | [*Scientific visualization with ParaView*](visualization.md) by Alex Razoumov ![beginner](beginner.png) | [*Parallelization in Python 3 and large datasets*](https://github.com/phaustin/parallel_python_course/blob/master/austin.md) by Phil Austin ![intermediate](intermediate.png) |
 | Thursday **June-22** afternoon | [*Data Science at Scale with Hadoop, Spark and The Data Science Experience*](ibm.md) by Matt McInnis ![beginner](beginner.png) | [*Physics and astrophysics modeling*](jeremy.md) by Jeremy Heyl ![intermediate](intermediate.png) |
+
+## Slides and other presentation materials
+
+- *Introduction to HPC* by Alex Razoumov: http://bit.ly/introhpc is a ZIP file with everything inside
+- *Introduction to parallel and distributed computing in high-level programming languages (MATLAB and
+  Julia)* by Henryk Modzelewski and Keegan Lensink: https://github.com/henryk-modzelewski/MvsJ.git
+  contains slides and sample codes
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
