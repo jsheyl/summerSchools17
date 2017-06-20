@@ -43,7 +43,7 @@ all day). Before the start of the summer school all eligible attendees must obta
   Julia)* by Henryk Modzelewski and Keegan Lensink: https://github.com/henryk-modzelewski/MvsJ.git
   contains slides and sample codes
 - *Introduction to GPU programming with CUDA and OpenACC* by Maxime Boissonneault: slides at
-  http://tinyurl.com/wg-cuda-slides, OpenACC tutorial (in English!) at
+  http://tinyurl.com/wg-cuda-slides, OpenACC tutorial at
   https://docs.computecanada.ca/wiki/OpenACC_Tutorial
 
 If you have questions or would like more information on any of the courses listed above, please contact
