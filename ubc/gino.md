@@ -10,6 +10,9 @@ density-functional theory (DFT) based methods, and some of their pitfalls.
 Participants are encouraged to [contact the instructor Gino DiLabio](mailto:Gino.DiLabio@ubc.ca) prior to
 the workshop with specific chemical problems of interest to them.
 
+* a sample queue script https://transfer.sh/bF1xd/queue.sh
+* a sample input file https://transfer.sh/12tw8A/O2.gjf
+
 **Target audience**: anyone interested in using computational chemistry in their research
 
 **Course plan**:
