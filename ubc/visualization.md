@@ -18,10 +18,6 @@ manipulate them with a variety of filters.
 - remote and parallel visualization with live demos
 - visualization on the web
 
-**Other information**:
-
-**Setup requirements**:
-
 **Duration**: 3 hours
 
 **Level**: beginner
