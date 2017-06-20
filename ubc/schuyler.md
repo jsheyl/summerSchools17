@@ -28,7 +28,6 @@ send basic GET and POST requests, and to receive and parse JSON responses.
     - Filtered Search
     - Aggregate Search Queries (Faceting)
     - Visualize your results (time permitting)
-- Other APIs and ‘Where To Go From Here’
 
 **Setup requirements**: 
 
