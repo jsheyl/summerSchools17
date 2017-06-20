@@ -37,3 +37,5 @@ You will need a laptop with Python 3.5+ installed and a text editor or IDE that 
 Demonstrations will be given using PyCharm CE and this application is highly recommended to follow along. It can be downloaded for free at https://www.jetbrains.com/pycharm/download/
 
 Please arrive early if you require assistance getting set up.
+
+Course documents can be found at: https://github.com/schuyberg/py_oc-api_seminar
