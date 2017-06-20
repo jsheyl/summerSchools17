@@ -45,6 +45,8 @@ all day). Before the start of the summer school all eligible attendees must obta
 - *Introduction to GPU programming with CUDA and OpenACC* by Maxime Boissonneault: slides at
   http://tinyurl.com/wg-cuda-slides, OpenACC tutorial at
   https://docs.computecanada.ca/wiki/OpenACC_Tutorial
+- *Introduction to Harvesting API Data in Python from UBC Library's Open Collections* by Schuyler
+  Lindberg: course material at http://goo.gl/26AoTh
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
