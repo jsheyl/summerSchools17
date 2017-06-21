@@ -47,6 +47,8 @@ all day). Before the start of the summer school all eligible attendees must obta
   https://docs.computecanada.ca/wiki/OpenACC_Tutorial
 - *Introduction to Harvesting API Data in Python from UBC Library's Open Collections* by Schuyler
   Lindberg: course material at http://goo.gl/26AoTh
+- *Scientific visualization with ParaView* by Alex Razoumov: slides and other files at
+  http://bit.ly/paraviewzip
 
 If you have questions or would like more information on any of the courses listed above, please contact
 [Alex Razoumov](mailto:alex.razoumov@westgrid.ca).
